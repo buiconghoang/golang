@@ -1,0 +1,10 @@
+;mv /home/user/source/python/a.py '/home/user';path11;path2;path3;
+;/usr/local/abc lkdf kljad;path11;path2;path3;
+;del '/usr/ab def\a.py' -rm;path11;path2;path3;
+;abc /usr/ab\ def/a.py;path11;path2;path3;
+;"/usr/def/bc.py";path11;path2;path3;
+;22 mv /home/user/source/python/a.py '/home/user';path11;path2;path3;
+;22 /usr/local/abc lkdf kljad;path11;path2;path3;
+;22 del '/usr/ab def\a.py' -rm;path11;path2;path3;
+;22 abc /usr/ab\ def/a.py;path11;path2;path3;
+;22 " /usr/def/bc.py";path11;path2;path3;

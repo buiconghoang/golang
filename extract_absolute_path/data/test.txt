@@ -1,0 +1,15 @@
+title
+	move C:\user\helloworld\a.py D://hello\\abc
+	C:\\abc\defb\a.py
+	mv /home/user/source/python/a.py '/home/user'
+	ma "C:/user/helloworld" abc
+	/usr/local/abc lkdf kljad
+	11 errror C:abc\abaa\\aba
+title2
+	del '/usr/ab def\a.py' -rm
+	abc /usr/ab\ def/a.py
+	"C:\\abcde\ab.py"
+	"/usr/def/bc.py"
+	11 errror abc/abaa/aba
+ 
+

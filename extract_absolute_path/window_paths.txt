@@ -1,0 +1,8 @@
+move C:\user\helloworld\a.py D://hello\\abc
+C:\\abc\defb\a.py
+ma "C:/user/helloworld" abc
+"C:\\abcde\ab.py"
+222 move C:\user\helloworld\a.py D://hello\\abc
+22 C:\\abc\defb\a.py
+22 ma "C:/user/helloworld" abc
+22 "C:\\abcde\ab.py"
